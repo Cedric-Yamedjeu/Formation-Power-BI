@@ -1,4 +1,5 @@
 Atelier Power BI : tableau de bord de suivi des ventes
+
 Objectif de l'atelier
 
 À partir d'un fichier de ventes (sales_2.csv), construire de bout en bout un rapport Power BI professionnel : préparer et structurer les données, les modéliser, calculer des indicateurs, puis les présenter dans un tableau de bord interactif, sécurisé et publié.
