@@ -8,8 +8,11 @@ Le livrable est un rapport de deux pages :
 
 - Suivi des ventes : chiffre d'affaires, commandes, quantités, évolution dans le temps, répartition par région et par catégorie.
 - Suivi des commandes annulées : nombre, montant et taux d'annulation, par période, région et produit.
-Acquis
+  
 Note : données fictives. Les données du fichier sales_2.csv (clients, produits, régions, commandes et montants) sont entièrement fictives. Elles ont été créées à des fins pédagogiques et ne reflètent aucune activité commerciale réelle. Les chiffres du tableau de bord n'ont donc aucune valeur métier.
+  
+Acquis
+
 
 Préparer les données (Power Query)
 
